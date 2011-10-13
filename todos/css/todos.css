@@ -239,3 +239,10 @@ body {
         text-decoration: line-through; }
     body ul li:nth-child(odd) {
       background-color: #F7F7F7; }
+
+.footer {
+	color: gray;
+	font-size: 80%;
+	text-align:center;
+	margin-top: 3em;
+}
